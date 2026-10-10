@@ -1,0 +1,9 @@
+{
+  "baseCents": 2000,
+  "peak": {
+    "startHour": 18,
+    "endHour": 22,
+    "weekdaysOnly": true,
+    "multiplier": 1.5
+  }
+}
