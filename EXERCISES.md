@@ -17,7 +17,7 @@ finish everything. That's expected. Say what you skipped and why.
 ## Before you start
 
 ```bash
-git clone <repo-url> courtbook
+git clone https://github.com/tiennguyentony/courtbook.git
 cd courtbook
 npm install
 npm test          # should be green
